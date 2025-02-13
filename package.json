@@ -1,6 +1,6 @@
 {
-  "name": "nmprumana1",
-  "version": "1.0.20",
+  "name": "nmprumana-sys",
+  "version": "1.0.21",
   "description": "A tabbed pane component using React.js",
   "author": "rumana-sys",
   "license": "MIT",
